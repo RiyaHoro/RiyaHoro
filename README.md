@@ -22,6 +22,7 @@
 <div><img width=150 height=150 src="[https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp](https://www.holopin.io/@riyahoro#badges)"></div>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyahoro&show_icons=true&locale=en&layout=compact" alt="riyahoro" /></p>
+<p><img align="left" src="![image](https://github.com/user-attachments/assets/519f01f6-44f1-45d5-98d2-788b9deea606)
+" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyahoro&show_icons=true&locale=en" alt="riyahoro" /></p></div>
