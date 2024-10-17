@@ -24,8 +24,7 @@ I'm Riya Horo , a passionate web developer and aspiring data analyst. I love cre
 ## ⚡ Fun fact
 I'm a huge fan of Harry Potter and love discussing trivia about the series!
 
-!Hacktoberfest 2024 Badge
-https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp
+
 
 
 ## 🛠️ Technologies & Tools
