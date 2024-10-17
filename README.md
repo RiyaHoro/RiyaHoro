@@ -21,7 +21,7 @@
 <h3> Badges: </h3>
 <div><img width=150 height=150 src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp"></div>
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyahoro&show_icons=true&locale=en&layout=compact" alt="riyahoro" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyahoro&show_icons=true&locale=en&layout=compact" alt="riyahoro" /></p><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyahoro&show_icons=true&locale=en" alt="riyahoro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyahoro&show_icons=true&locale=en" alt="riyahoro" /></p></div>
