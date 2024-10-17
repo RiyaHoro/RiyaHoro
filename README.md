@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Riya Horo</h1>
-<h3 align="center">I'm Riya Horo, a passionate web developer and aspiring data analyst. I love creating beautiful, responsive websites and diving into data to uncover insights.</h3>
+<h1 align="center">Riya Horo</h1>
+<h3 align="center">Hi 👋I'm Riya Horo, a passionate web developer and aspiring data analyst. I love creating beautiful, responsive websites and diving into data to uncover insights.</h3>
 
 <img src="https://digitalscholar.in/wp-content/uploads/2022/06/online-learning.gif" align="right" alt="coding" width=400>
 
