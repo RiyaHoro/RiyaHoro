@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Horo</h1>
 <h3 align="center">I'm Riya Horo, a passionate web developer and aspiring data analyst. I love creating beautiful, responsive websites and diving into data to uncover insights.</h3>
-<img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding">
+<img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="coding" width=400 height=200>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyahoro&label=Profile%20views&color=0e75b6&style=flat" alt="riyahoro" /> </p>
 
