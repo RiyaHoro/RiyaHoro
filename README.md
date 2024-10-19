@@ -24,8 +24,7 @@
   <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" height=150 width=150 >
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" height=150 width=150 >  
   <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" height=150 width=150>
-  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp
-" height=150 width=150>
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" height=150 width=150>
   <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" height=150 width=150>
   
 </div>
